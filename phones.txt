@@ -1,6 +1,8 @@
 1) iphone 11
 2) iphone 12
-1) Anroid 10
-2) Android 11
+3) Anroid 10
+4) Android 11
+5) Xiaomy 8
+6) Xiaomy 9
 
 
