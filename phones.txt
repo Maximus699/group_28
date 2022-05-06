@@ -4,5 +4,6 @@
 4) Android 11
 5) Xiaomy 8
 6) Xiaomy 9
-
+7) Samsung s10
+8) Samsung s20
 
